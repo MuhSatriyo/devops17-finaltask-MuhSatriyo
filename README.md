@@ -8,3 +8,6 @@ Kegiatan final task ini meliputi beberapa kegitana dalam membangun sebuah server
 5. [Monitoring Server](https://github.com/MuhSatriyo/devops17-finaltask-MuhSatriyo/blob/main/5.%20Monitoring/.md)
 6. [Web Server](https://github.com/MuhSatriyo/devops17-finaltask-MuhSatriyo/blob/main/6.%20Web%20Server/.md)
 7. [Kubernetes atau proses running apk di lokal komputer kita](https://github.com/MuhSatriyo/devops17-finaltask-MuhSatriyo/blob/main/7.%20Kubernetes/.md)
+
+Dan ini infrastruktur yang saya gunakan:
+![alt text](https://github.com/MuhSatriyo/devops17-finaltask-MuhSatriyo/blob/main/2.%20Repository/Documentation/image(4).png)
